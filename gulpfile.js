@@ -74,8 +74,5 @@ gulp.task('test', function() {
 	runSequence(['coretest'],['extendedtest']);
 });
 
-
-
-
 gulp.task('default', ['buildCore','buildGlobal']);
 

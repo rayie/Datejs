@@ -1,0 +1,15 @@
+{
+  "name": "datejs-parseronly-import",
+  "description": "A parser only import file for use in Polymer",
+  "main": "datejs-parseronly-import.js",
+  "license": "Apache 2.0",
+  "homepage": "https://github.com/rayie/Datejs",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
